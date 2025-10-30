@@ -1,4 +1,4 @@
-```markdown
+
 # ExpensifyX
 
 > A clean, cross-platform Flutter expense manager — local-first (SQLite) with optional Supabase cloud sync and image storage.
@@ -83,4 +83,4 @@ This project is provided under the MIT License. See LICENSE for details.
 Contact
 - Maintainer: MR-Coder2k04
 - Repo: https://github.com/MR-Coder2k04/ExpensifyX
-```
+
