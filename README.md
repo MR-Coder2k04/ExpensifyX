@@ -1,3 +1,4 @@
+```markdown
 # ExpensifyX
 
 > A clean, cross-platform Flutter expense manager — local-first (SQLite) with optional Supabase cloud sync and image storage.
@@ -5,7 +6,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-%5E3.0-blue)](https://docs.flutter.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-A simple expense tracker that organizes wallets and their expenses. Data is stored locally (SQLite) with optional two-way sync to Supabase. Images (receipts/screenshots) may be uploaded to Supabase storage.
+A simple expense tracker that organizes wallets and their expenses. Data is stored locally (SQLite) with optional two-way sync to Supabase. Images (receipts/screenshots) may be uploaded to Supabase st[...]
 
 Highlights
 - Local-first: fast, offline-capable app backed by SQLite (DbSql.dart)
@@ -23,28 +24,28 @@ Quick links
 Screenshots
 (Images are included in the repo root. They are shown here as screenshots of the app.)
 
-Home / Wallet list
-![Screenshot — Home / Wallet list](./IMG-20251031-WA0012.jpg)
+Home / Wallet list  
+<img src="./IMG-20251031-WA0012.jpg" alt="Screenshot — Home / Wallet list" width="320" style="border:1px solid #ddd; border-radius:6px;" />
 
-Wallet details (expenses and totals)
-![Screenshot — Wallet details](./IMG-20251031-WA0011.jpg)
+Wallet details (expenses and totals)  
+<img src="./IMG-20251031-WA0011.jpg" alt="Screenshot — Wallet details" width="320" style="border:1px solid #ddd; border-radius:6px;" />
 
-Add Expense / Receipt preview
-![Screenshot — Add Expense / Receipt preview](./IMG-20251031-WA0010.jpg)
+Add Expense / Receipt preview  
+<img src="./IMG-20251031-WA0010.jpg" alt="Screenshot — Add Expense / Receipt preview" width="320" style="border:1px solid #ddd; border-radius:6px;" />
 
-Edit Wallet / Edit Expense
-![Screenshot — Edit flows](./IMG-20251031-WA0009.jpg)
+Edit Wallet / Edit Expense  
+<img src="./IMG-20251031-WA0009.jpg" alt="Screenshot — Edit flows" width="320" style="border:1px solid #ddd; border-radius:6px;" />
 
-Overview / Summary bars
-![Screenshot — Overview / Summary bars](./IMG-20251031-WA0008.jpg)
+Overview / Summary bars  
+<img src="./IMG-20251031-WA0008.jpg" alt="Screenshot — Overview / Summary bars" width="320" style="border:1px solid #ddd; border-radius:6px;" />
 
-More screenshots
-![Screenshot — More 1](./IMG-20251031-WA0007.jpg)
-![Screenshot — More 2](./IMG-20251031-WA0003.jpg)
-![Screenshot — More 3](./IMG-20251031-WA0002.jpg)
-![Screenshot — More 4](./IMG-20251031-WA0001.jpg)
+More screenshots  
+<img src="./IMG-20251031-WA0007.jpg" alt="Screenshot — More 1" width="320" style="border:1px solid #ddd; border-radius:6px;" />
+<img src="./IMG-20251031-WA0003.jpg" alt="Screenshot — More 2" width="320" style="border:1px solid #ddd; border-radius:6px;" />
+<img src="./IMG-20251031-WA0002.jpg" alt="Screenshot — More 3" width="320" style="border:1px solid #ddd; border-radius:6px;" />
+<img src="./IMG-20251031-WA0001.jpg" alt="Screenshot — More 4" width="320" style="border:1px solid #ddd; border-radius:6px;" />
 
-Note: If images appear large on GitHub, you can change display size using HTML <img> tags with width attributes (e.g. <img src="./IMG-20251031-WA0012.jpg" width="320" />).
+Note: Images were converted from Markdown image embeds to HTML <img> tags so we can control size and add a light border. To change the appearance, edit the width value (e.g. width="240") or the CSS in the style attribute (for example, change border color, width, or add box-shadow).
 
 Getting started (development)
 1. Install Flutter (see https://docs.flutter.dev/get-started).
@@ -82,3 +83,4 @@ This project is provided under the MIT License. See LICENSE for details.
 Contact
 - Maintainer: MR-Coder2k04
 - Repo: https://github.com/MR-Coder2k04/ExpensifyX
+```
