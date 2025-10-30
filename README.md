@@ -34,6 +34,19 @@ Cloud integration & storage: DbSupabase.dart
 Wallet and expense UI: homeScreen.dart, walletScreen.dart, expenselist.dart, totalexpense.dart
 If you want, I can produce a README-ready project summary or a shorter app-store style blurb.
 
+## Screen shot
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA0001.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA0002.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA0003.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA0007.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA0008.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA0009.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA00010.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA00011.jpg)
+![image alt](https://github.com/MR-Coder2k04/ExpensifyX/blob/bea5e1389bd89008e0c255cabef7f597775f5edd/IMG-20251031-WA00012.jpg)
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
